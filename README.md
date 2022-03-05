@@ -9,7 +9,7 @@ g++ waterSort.cpp -o waterSort
 ```
 ./waterSort 4 3 true
 ```
-The above command will make the program random generate a 4 tubes graph with 3 tubes filled with water, and the third argument will decide to print or not to print the solving steps.
+The above command will make the program randomly generates a 4 tubes graph with 3 tubes filled with water, and the third argument will decide to print or not to print the solving steps.
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/35865970/156897890-fffbe8bc-f58e-4512-92d3-853909fd6cec.png)
